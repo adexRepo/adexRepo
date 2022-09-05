@@ -1,4 +1,4 @@
-### Hello, I'm Adek Kritiyanto 👋
+### Hello, I'm Adek Kristiyanto 👋
 
 - 🔭 I'm currentlyworking on PT.NEXT Transformtech Indonesia
 - 🌱 I’m currently learning Microservices
