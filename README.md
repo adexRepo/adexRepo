@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently working on PT.NEXT Transformtech Indonesia
 - 🌱 I’m currently learning Microservices
-- 🥅 2022 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about web3
 - ⚡ Fun fact: I really like chicken noodles!
 
 ---
