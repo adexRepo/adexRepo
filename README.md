@@ -1,6 +1,5 @@
 ### Hello, I'm Adek Kristiyanto 👋
 
-- 🔭 I'm currently working on PT.NEXT Transformtech Indonesia
 - 🌱 I’m currently learning design pattern
 - 🥅 2023 Goals: Learn more all about backend
 - ⚡ Fun fact: I really like chicken noodles!
