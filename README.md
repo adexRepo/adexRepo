@@ -1,7 +1,6 @@
 ### Hello, I'm Adek Kristiyanto 👋
 
 - 🌱 I’m currently learning Kubernetes! 
-- 🥅 2023 Goals: Learn more about backend
 - ⚡ Fun fact: I really like chicken noodles!
 
 ---
